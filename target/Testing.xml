@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="20.196373">
+    <testcase classname="MyBeepr Web-Login" name="Verify login functionality of MyBeepr" time="20.196373">
+        <system-out><![CDATA[Given I navigate to "url"...................................................passed
+When I enter user "validUsername"...........................................passed
+And I enter pswd "validPassword"............................................passed
+And I click on Sign in button...............................................passed
+Then I navigate to dashboard page...........................................passed
+Then I close browser instance...............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

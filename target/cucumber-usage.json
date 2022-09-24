@@ -1,0 +1,110 @@
+[
+  {
+    "source": "^I click on Sign in button$",
+    "steps": [
+      {
+        "name": "I click on Sign in button",
+        "aggregatedDurations": {
+          "average": 2.16739,
+          "median": 2.16739
+        },
+        "durations": [
+          {
+            "duration": 2.16739,
+            "location": "Login.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter user \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter user \"validUsername\"",
+        "aggregatedDurations": {
+          "average": 2.7700075,
+          "median": 2.7700075
+        },
+        "durations": [
+          {
+            "duration": 2.7700075,
+            "location": "Login.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I navigate to \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I navigate to \"url\"",
+        "aggregatedDurations": {
+          "average": 10.5269286,
+          "median": 10.5269286
+        },
+        "durations": [
+          {
+            "duration": 10.5269286,
+            "location": "Login.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I navigate to dashboard page$",
+    "steps": [
+      {
+        "name": "I navigate to dashboard page",
+        "aggregatedDurations": {
+          "average": 0.0000604,
+          "median": 0.0000604
+        },
+        "durations": [
+          {
+            "duration": 0.0000604,
+            "location": "Login.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I close browser instance$",
+    "steps": [
+      {
+        "name": "I close browser instance",
+        "aggregatedDurations": {
+          "average": 2.4506469,
+          "median": 2.4506469
+        },
+        "durations": [
+          {
+            "duration": 2.4506469,
+            "location": "Login.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter pswd \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter pswd \"validPassword\"",
+        "aggregatedDurations": {
+          "average": 2.1834377,
+          "median": 2.1834377
+        },
+        "durations": [
+          {
+            "duration": 2.1834377,
+            "location": "Login.feature:7"
+          }
+        ]
+      }
+    ]
+  }
+]
